@@ -29,7 +29,7 @@ Se deja adjunto en la carpeta */2020_1*, con la finalidad de probar la GUI desar
 
 ## Uso
 
-Para utilizar la GUI deben descargarse o clonarse los arhivos del repositorio. Posteriormente se debe ejecutar la *notebook* <code>GUI.ipynb</code>. 
+Para utilizar la GUI deben descargarse o clonarse los arhivos del repositorio. Posteriormente se debe ejecutar con *Jupyter notebook* <code>GUI.ipynb</code>. 
 Los siguiente paquetes deben estar instalados:
 
 - numpy
