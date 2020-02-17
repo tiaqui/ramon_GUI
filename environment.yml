@@ -6,4 +6,4 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
-  - tkinter
+  - tk
