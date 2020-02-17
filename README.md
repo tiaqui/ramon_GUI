@@ -26,3 +26,16 @@ Tiene como finalidad:
 ## Información de prueba
 
 Se deja adjunto en la carpeta */2020_1*, con la finalidad de probar la GUI desarrollada, un archivo (ya procesados por la GUI) en formato *.hd5* con los resultados de mediciones en distintos períodos para tres días.
+
+## Uso
+
+Para utilizar la GUI deben descargarse o clonarse los arhivos del repositorio. Posteriormente se debe ejecutar la *notebook* <code>GUI.ipynb</code>. 
+Los siguiente paquetes deben estar instalados:
+
+- numpy
+- scipy
+- pandas
+- ipython
+- jupyter
+- tkinter
+- matplotlib
