@@ -9,8 +9,6 @@ import numpy as np
 import datetime
 import time
 import pandas as pd
-import warnings
-import tables
 
 root = '/home/pi/Documents/'
 
@@ -83,7 +81,6 @@ def guardado(yy, mn, root=root):
     return
 
 def guardar_h5(yy, mn, dd, root=root, datos=0):
-    warnings.simplefilter('ignore', tables.NaturalNameWarning)
     path = root + str(yy) + '_' + str(mn) + '/'    
     path_datos = path + 'datos.h5'
     if type(datos) == int:
