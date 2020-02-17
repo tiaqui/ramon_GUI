@@ -25,4 +25,4 @@ Tiene como finalidad:
 
 ## Información de prueba
 
-Se deja adjunto en la carpeta *2020_1*, con la finalidad de probar la GUI desarrollada, un archivo (ya procesados por la GUI) en formato *.hd5* con los resultados de mediciones en distintos períodos para tres días.
+Se deja adjunto en la carpeta */2020_1*, con la finalidad de probar la GUI desarrollada, un archivo (ya procesados por la GUI) en formato *.hd5* con los resultados de mediciones en distintos períodos para tres días.
