@@ -1,0 +1,9 @@
+name: ramon_GUI-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - tkinter
